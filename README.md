@@ -1,2 +1,2 @@
 # news_puls
-news puls
+news puls_backend
